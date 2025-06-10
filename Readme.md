@@ -2,7 +2,7 @@
 
 * Студент: [Иван Валерьевич](https://htmlacademy.ru/profile/id2516451).
 * Наставник: [Валерий Викторович](no website)
-* Сайт : [Мой проект] (https://mendalkeee.github.io/firstproject/)
+* Сайт : [Мой проект](https://mendalkeee.github.io/firstproject/)
 
 ---
 
